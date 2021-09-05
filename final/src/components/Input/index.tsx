@@ -2,8 +2,7 @@ import {
   useEffect,
   useRef,
   useState,
-  useCallback,
-  ReactNode,
+  useCallback
 } from 'react';
 import { IconType } from 'react-icons/lib/esm';
 import { useField } from '@unform/core';
